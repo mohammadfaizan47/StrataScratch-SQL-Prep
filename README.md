@@ -8,5 +8,10 @@ This course consists of Four Phases: \
                         ├── Distinct Counts \
                         └── Sorting Results \
 • Phase 2 → Core Skills \
+                        ├── Joins & Set Operations \
+                        ├── Aggregate Functions \
+                        ├── Aggregations \
+                        ├── Grouped Aggregates \
+                        └── Null Handling \
 • Phase 3 → Window Functions \
 • Phase 4 → Date & Time + String
